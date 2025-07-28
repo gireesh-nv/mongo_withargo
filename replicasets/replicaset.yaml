@@ -4,7 +4,7 @@ metadata:
   name: k8-rs1
 spec:
   members: 3
-  version: 6.0.16-ent
+  version: 6.0.5-ent
   type: ReplicaSet
 
   opsManager:
